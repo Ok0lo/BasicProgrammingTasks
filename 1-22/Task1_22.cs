@@ -9,6 +9,8 @@ namespace _1_22 {
             InitializeComponent();
         }
 
+        private void Task1_22_Load(object sender, EventArgs e) {}
+
         private void Calculate_B_Click(object sender, EventArgs e) {
             if (IsAllTextBoxesFilled() == false) {
                 Result_TB.Text = "Fill in all Text Boxes!";

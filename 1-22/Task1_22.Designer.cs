@@ -173,6 +173,7 @@
             this.Controls.Add(this.Width_L);
             this.Name = "Task1_22";
             this.Text = "Task 1-22";
+            this.Load += new System.EventHandler(this.Task1_22_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
