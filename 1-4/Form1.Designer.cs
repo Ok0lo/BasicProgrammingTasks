@@ -1,5 +1,5 @@
 ﻿namespace _1_4 {
-    partial class Task1_4 {
+    partial class Form1 {
         /// <summary>
         /// Обязательная переменная конструктора.
         /// </summary>
@@ -45,7 +45,7 @@
             this.Calculate_B.Margin = new System.Windows.Forms.Padding(5);
             this.Calculate_B.Name = "Calculate_B";
             this.Calculate_B.Size = new System.Drawing.Size(116, 46);
-            this.Calculate_B.TabIndex = 13;
+            this.Calculate_B.TabIndex = 20;
             this.Calculate_B.Text = "&Calculate";
             this.Calculate_B.UseVisualStyleBackColor = true;
             this.Calculate_B.Click += new System.EventHandler(this.Calculate_B_Click);
@@ -71,7 +71,7 @@
             // 
             // BigR_TB
             // 
-            this.BigR_TB.Location = new System.Drawing.Point(71, 43);
+            this.BigR_TB.Location = new System.Drawing.Point(71, 39);
             this.BigR_TB.Margin = new System.Windows.Forms.Padding(5);
             this.BigR_TB.Name = "BigR_TB";
             this.BigR_TB.Size = new System.Drawing.Size(100, 20);
@@ -81,16 +81,16 @@
             // 
             this.BigR_L.AutoSize = true;
             this.BigR_L.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BigR_L.Location = new System.Drawing.Point(14, 44);
+            this.BigR_L.Location = new System.Drawing.Point(14, 40);
             this.BigR_L.Margin = new System.Windows.Forms.Padding(5);
             this.BigR_L.Name = "BigR_L";
-            this.BigR_L.Size = new System.Drawing.Size(17, 16);
+            this.BigR_L.Size = new System.Drawing.Size(24, 16);
             this.BigR_L.TabIndex = 14;
-            this.BigR_L.Text = "&R";
+            this.BigR_L.Text = "R&1";
             // 
             // SmallR_TB
             // 
-            this.SmallR_TB.Location = new System.Drawing.Point(71, 73);
+            this.SmallR_TB.Location = new System.Drawing.Point(71, 65);
             this.SmallR_TB.Margin = new System.Windows.Forms.Padding(5);
             this.SmallR_TB.Name = "SmallR_TB";
             this.SmallR_TB.Size = new System.Drawing.Size(100, 20);
@@ -100,16 +100,16 @@
             // 
             this.SmallR_L.AutoSize = true;
             this.SmallR_L.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.SmallR_L.Location = new System.Drawing.Point(14, 74);
+            this.SmallR_L.Location = new System.Drawing.Point(14, 66);
             this.SmallR_L.Margin = new System.Windows.Forms.Padding(5);
             this.SmallR_L.Name = "SmallR_L";
-            this.SmallR_L.Size = new System.Drawing.Size(11, 16);
+            this.SmallR_L.Size = new System.Drawing.Size(18, 16);
             this.SmallR_L.TabIndex = 16;
-            this.SmallR_L.Text = "r";
+            this.SmallR_L.Text = "r&2";
             // 
             // P_TB
             // 
-            this.P_TB.Location = new System.Drawing.Point(71, 103);
+            this.P_TB.Location = new System.Drawing.Point(71, 92);
             this.P_TB.Margin = new System.Windows.Forms.Padding(5);
             this.P_TB.Name = "P_TB";
             this.P_TB.Size = new System.Drawing.Size(100, 20);
@@ -119,7 +119,7 @@
             // 
             this.P_L.AutoSize = true;
             this.P_L.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.P_L.Location = new System.Drawing.Point(14, 104);
+            this.P_L.Location = new System.Drawing.Point(14, 93);
             this.P_L.Margin = new System.Windows.Forms.Padding(5);
             this.P_L.Name = "P_L";
             this.P_L.Size = new System.Drawing.Size(15, 16);
@@ -133,23 +133,24 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(96, 39);
             this.label1.TabIndex = 20;
-            this.label1.Text = "*Restrictions\r\nR > r\r\nLength, R, r, p != 0\r\n";
+            this.label1.Text = "*Conditions\r\nR > r\r\nLength, R, r, p != 0\r\n";
             // 
             // Volume_TB
             // 
             this.Volume_TB.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Volume_TB.Location = new System.Drawing.Point(71, 142);
+            this.Volume_TB.Location = new System.Drawing.Point(70, 131);
             this.Volume_TB.Margin = new System.Windows.Forms.Padding(20);
             this.Volume_TB.Name = "Volume_TB";
             this.Volume_TB.ReadOnly = true;
             this.Volume_TB.Size = new System.Drawing.Size(233, 22);
             this.Volume_TB.TabIndex = 22;
+            this.Volume_TB.TabStop = false;
             // 
             // Volume_L
             // 
             this.Volume_L.AutoSize = true;
             this.Volume_L.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Volume_L.Location = new System.Drawing.Point(14, 145);
+            this.Volume_L.Location = new System.Drawing.Point(13, 134);
             this.Volume_L.Margin = new System.Windows.Forms.Padding(20, 20, 20, 8);
             this.Volume_L.Name = "Volume_L";
             this.Volume_L.Size = new System.Drawing.Size(16, 16);
@@ -159,29 +160,30 @@
             // Weight_TB
             // 
             this.Weight_TB.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Weight_TB.Location = new System.Drawing.Point(71, 171);
+            this.Weight_TB.Location = new System.Drawing.Point(70, 160);
             this.Weight_TB.Margin = new System.Windows.Forms.Padding(5);
             this.Weight_TB.Name = "Weight_TB";
             this.Weight_TB.ReadOnly = true;
             this.Weight_TB.Size = new System.Drawing.Size(233, 22);
             this.Weight_TB.TabIndex = 24;
+            this.Weight_TB.TabStop = false;
             // 
             // Weight_L
             // 
             this.Weight_L.AutoSize = true;
             this.Weight_L.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Weight_L.Location = new System.Drawing.Point(14, 174);
+            this.Weight_L.Location = new System.Drawing.Point(13, 163);
             this.Weight_L.Margin = new System.Windows.Forms.Padding(5);
             this.Weight_L.Name = "Weight_L";
             this.Weight_L.Size = new System.Drawing.Size(18, 16);
             this.Weight_L.TabIndex = 23;
             this.Weight_L.Text = "m";
             // 
-            // Task1_4
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(319, 217);
+            this.ClientSize = new System.Drawing.Size(319, 200);
             this.Controls.Add(this.Weight_TB);
             this.Controls.Add(this.Weight_L);
             this.Controls.Add(this.Volume_TB);
@@ -196,9 +198,9 @@
             this.Controls.Add(this.Calculate_B);
             this.Controls.Add(this.Length_TB);
             this.Controls.Add(this.Length_L);
-            this.Name = "Task1_4";
+            this.Name = "Form1";
+            this.ShowIcon = false;
             this.Text = "Task 1-4";
-            this.Load += new System.EventHandler(this.Task1_4_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

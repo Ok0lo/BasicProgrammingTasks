@@ -8,7 +8,7 @@ namespace _1_4 {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Task1_4());
+            Application.Run(new Form1());
         }
 
     }
