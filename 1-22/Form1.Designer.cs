@@ -1,5 +1,5 @@
 ﻿namespace _1_22 {
-    partial class Task1_22 {
+    partial class Form1 {
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -101,7 +101,7 @@
             this.Result_L.Name = "Result_L";
             this.Result_L.Size = new System.Drawing.Size(45, 16);
             this.Result_L.TabIndex = 8;
-            this.Result_L.Text = "&Result";
+            this.Result_L.Text = "Result";
             // 
             // Result_TB
             // 
@@ -112,6 +112,7 @@
             this.Result_TB.ReadOnly = true;
             this.Result_TB.Size = new System.Drawing.Size(233, 22);
             this.Result_TB.TabIndex = 9;
+            this.Result_TB.TabStop = false;
             // 
             // Height_TB
             // 
@@ -152,9 +153,9 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(119, 52);
             this.label1.TabIndex = 11;
-            this.label1.Text = "*Restrictions\r\nWidth >= A, B\r\nA != B\r\nA, B, Width, Height != 0\r\n";
+            this.label1.Text = "*Conditions\r\nWidth >= A, B\r\nA != B\r\nA, B, Width, Height != 0\r\n";
             // 
-            // Task1_22
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -171,9 +172,9 @@
             this.Controls.Add(this.Heght_L);
             this.Controls.Add(this.Width_TB);
             this.Controls.Add(this.Width_L);
-            this.Name = "Task1_22";
+            this.Name = "Form1";
+            this.ShowIcon = false;
             this.Text = "Task 1-22";
-            this.Load += new System.EventHandler(this.Task1_22_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
