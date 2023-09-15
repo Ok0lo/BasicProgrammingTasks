@@ -18,16 +18,19 @@ namespace _2_4 {
                 (Math.Sin(Math.Pow(y, .3f) / (3f + Math.Sqrt(7f))));
             double b =
                 2f * (Math.Sin(x / y) + Math.Cos(y / x) * Math.Log10(Math.Abs(x - y) + 1));
-            double c;
-            if (Math.Abs(a) <= 2f *Math.Abs(b)) {
-                c = Math.Sqrt(3f * (a * a) + 4f * (b * b));
-            } else {
-                c = Math.Sqrt(3f * (a * a) - 4f * (b * b));
-            }
+            double c = CalculateC(a, b);
 
             A_TB.Text = a.ToString();
             B_TB.Text = b.ToString();
             C_TB.Text = c.ToString();
+        }
+
+        private double CalculateC(double a, double b) {
+            if (Math.Abs(a) <= 2f * Math.Abs(b)) {
+                return Math.Sqrt(3f * (a * a) + 4f * (b * b));
+            }
+            
+            return Math.Sqrt(3f * (a * a) - 4f * (b * b));
         }
     }
 
