@@ -1,0 +1,11 @@
+E:\Codding\School\BasicsProgramming\Tasks\2-4\bin\Debug\2-4.exe.config
+E:\Codding\School\BasicsProgramming\Tasks\2-4\bin\Debug\2-4.exe
+E:\Codding\School\BasicsProgramming\Tasks\2-4\bin\Debug\2-4.pdb
+E:\Codding\School\BasicsProgramming\Tasks\2-4\obj\Debug\2-4.csproj.AssemblyReference.cache
+E:\Codding\School\BasicsProgramming\Tasks\2-4\obj\Debug\2-4.csproj.SuggestedBindingRedirects.cache
+E:\Codding\School\BasicsProgramming\Tasks\2-4\obj\Debug\_2_4.Form1.resources
+E:\Codding\School\BasicsProgramming\Tasks\2-4\obj\Debug\_2_4.Properties.Resources.resources
+E:\Codding\School\BasicsProgramming\Tasks\2-4\obj\Debug\2-4.csproj.GenerateResource.cache
+E:\Codding\School\BasicsProgramming\Tasks\2-4\obj\Debug\2-4.csproj.CoreCompileInputs.cache
+E:\Codding\School\BasicsProgramming\Tasks\2-4\obj\Debug\2-4.exe
+E:\Codding\School\BasicsProgramming\Tasks\2-4\obj\Debug\2-4.pdb
