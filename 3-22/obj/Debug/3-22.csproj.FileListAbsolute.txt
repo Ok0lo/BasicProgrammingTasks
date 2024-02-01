@@ -9,3 +9,14 @@ E:\Codding\School\BasicsProgramming\Tasks\3-22\obj\Debug\3-22.csproj.GenerateRes
 E:\Codding\School\BasicsProgramming\Tasks\3-22\obj\Debug\3-22.csproj.CoreCompileInputs.cache
 E:\Codding\School\BasicsProgramming\Tasks\3-22\obj\Debug\3-22.exe
 E:\Codding\School\BasicsProgramming\Tasks\3-22\obj\Debug\3-22.pdb
+E:\School\BasicsProgramming\Tasks\3-22\bin\Debug\3-22.exe.config
+E:\School\BasicsProgramming\Tasks\3-22\bin\Debug\3-22.exe
+E:\School\BasicsProgramming\Tasks\3-22\bin\Debug\3-22.pdb
+E:\School\BasicsProgramming\Tasks\3-22\obj\Debug\3-22.csproj.AssemblyReference.cache
+E:\School\BasicsProgramming\Tasks\3-22\obj\Debug\3-22.csproj.SuggestedBindingRedirects.cache
+E:\School\BasicsProgramming\Tasks\3-22\obj\Debug\_3_22.Form1.resources
+E:\School\BasicsProgramming\Tasks\3-22\obj\Debug\_3_22.Properties.Resources.resources
+E:\School\BasicsProgramming\Tasks\3-22\obj\Debug\3-22.csproj.GenerateResource.cache
+E:\School\BasicsProgramming\Tasks\3-22\obj\Debug\3-22.csproj.CoreCompileInputs.cache
+E:\School\BasicsProgramming\Tasks\3-22\obj\Debug\3-22.exe
+E:\School\BasicsProgramming\Tasks\3-22\obj\Debug\3-22.pdb
