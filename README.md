@@ -17,6 +17,11 @@
 
 ![image](https://github.com/Ok0lo/BasicsProgrammingTasks/assets/78851469/74675aa3-19a0-4fe7-8f1a-a5389558e93f)
 
+---> Task 8-4
+
+![image](https://github.com/Ok0lo/BasicsProgrammingTasks/assets/78851469/8719c093-5f93-450f-8836-0d6b49b1f1a8)
+![image](https://github.com/Ok0lo/BasicsProgrammingTasks/assets/78851469/f9dc9e77-1c08-432d-9521-602578c51ddb)
+
 <------------------------------------------------------------------->
 
 ---> Task 1-4 ~ [Video Test](https://www.dropbox.com/scl/fi/abtibqvfsiaj7i6ftw7s3/Task_1-4.mp4?rlkey=6rfe249ugn1iah21naiytxxrh&dl=0)
