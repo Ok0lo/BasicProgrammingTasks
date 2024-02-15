@@ -1,6 +1,24 @@
 # BasicsProgrammingTasks
 *For study
 
+---> Task 6-4
+
+![image](https://github.com/Ok0lo/BasicsProgrammingTasks/assets/78851469/04dfb064-3268-402f-b395-5e1b3121d301)
+
+---> Task 6-22
+
+![image](https://github.com/Ok0lo/BasicsProgrammingTasks/assets/78851469/adb9739d-4ab9-484b-9710-3a36675e6fbd)
+
+---> Task 7-4
+
+![image](https://github.com/Ok0lo/BasicsProgrammingTasks/assets/78851469/725db6a1-9fb0-4c14-99b5-9fd815e59960)
+
+---> Task 7-22
+
+![image](https://github.com/Ok0lo/BasicsProgrammingTasks/assets/78851469/74675aa3-19a0-4fe7-8f1a-a5389558e93f)
+
+<------------------------------------------------------------------->
+
 ---> Task 1-4 ~ [Video Test](https://www.dropbox.com/scl/fi/abtibqvfsiaj7i6ftw7s3/Task_1-4.mp4?rlkey=6rfe249ugn1iah21naiytxxrh&dl=0)
 
 ![image](https://github.com/Ok0lo/BasicsProgrammingTasks/assets/78851469/0fd5289f-866a-4f5a-b52c-8d72ceaeecb4)
