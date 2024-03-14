@@ -26,6 +26,10 @@
 
 ![image](https://github.com/Ok0lo/BasicsProgrammingTasks/assets/78851469/dc23339e-c447-47f4-84c3-0e835bd04aca)
 
+---> Task10-22
+
+![image](https://github.com/Ok0lo/BasicsProgrammingTasks/assets/78851469/31275362-6d99-4fe4-8221-1d629fa648ed)
+
 <------------------------------------------------------------------->
 
 ---> Task 1-4 ~ [Video Test](https://www.dropbox.com/scl/fi/abtibqvfsiaj7i6ftw7s3/Task_1-4.mp4?rlkey=6rfe249ugn1iah21naiytxxrh&dl=0)
