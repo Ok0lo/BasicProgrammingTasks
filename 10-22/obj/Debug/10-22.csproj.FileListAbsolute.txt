@@ -1,0 +1,11 @@
+E:\School\BasicsProgramming\Tasks\10-22\bin\Debug\10-22.exe.config
+E:\School\BasicsProgramming\Tasks\10-22\bin\Debug\10-22.exe
+E:\School\BasicsProgramming\Tasks\10-22\bin\Debug\10-22.pdb
+E:\School\BasicsProgramming\Tasks\10-22\obj\Debug\10-22.csproj.AssemblyReference.cache
+E:\School\BasicsProgramming\Tasks\10-22\obj\Debug\10-22.csproj.SuggestedBindingRedirects.cache
+E:\School\BasicsProgramming\Tasks\10-22\obj\Debug\_10_22.Form1.resources
+E:\School\BasicsProgramming\Tasks\10-22\obj\Debug\_10_22.Properties.Resources.resources
+E:\School\BasicsProgramming\Tasks\10-22\obj\Debug\10-22.csproj.GenerateResource.cache
+E:\School\BasicsProgramming\Tasks\10-22\obj\Debug\10-22.csproj.CoreCompileInputs.cache
+E:\School\BasicsProgramming\Tasks\10-22\obj\Debug\10-22.exe
+E:\School\BasicsProgramming\Tasks\10-22\obj\Debug\10-22.pdb
