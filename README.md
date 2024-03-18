@@ -1,3 +1,5 @@
+https://docs.google.com/presentation/d/1gXMoNb_o5nFk5Mn-PslINEhsFHry-iYq2FpmHGd00eQ/edit?usp=sharing
+
 # BasicsProgrammingTasks
 *For study
 
